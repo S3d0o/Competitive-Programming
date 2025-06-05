@@ -21,9 +21,5 @@ I use this repository to:
 
 ## 🏆 Platforms Used
 
-- [Codeforces](https://codeforces.com/profile/s3dd01)
-- [Codewars](https://www.codewars.com/users/s3dd01)
-
-## 🗂️ Folder Structure
-
+- [Codeforces](https://codeforces.com/profile/s3d0o.xn)
 
