@@ -14,8 +14,6 @@ I use this repository to:
 - Arrays and Strings
 - Recursion and Backtracking
 - Sorting and Searching
-- Stacks, Queues, and Linked Lists
-- Hashing and Dictionaries
 - Trees and Graph Basics
 - Basic Dynamic Programming
 
