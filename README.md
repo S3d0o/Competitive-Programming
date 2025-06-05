@@ -1,6 +1,7 @@
 # 🧠 Problem Solving in C#
 
-This repository contains my solutions to various algorithmic and data structure problems using **C#**.
+Welcome to my Competitive Programming repository! 👨‍💻
+Here, I’ve collected my personal solutions to problems from platforms like Codeforces and Codewars, mostly written in C# .
 
 ## 💡 Purpose
 
