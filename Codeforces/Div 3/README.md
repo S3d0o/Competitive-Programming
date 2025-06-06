@@ -10,5 +10,6 @@ This folder contains solutions to various **Div 3 Codeforces problems**, solved 
 | Square_Year      | A   | ✅ Solved | [Square_Year.cs](./Square_Year.cs) |
 | Draw_a_Square    | A   | ✅ Solved | [Draw_a_Square.cs](./Draw_a_Square.cs) |
 
+> 🧠 **Highlighted Problem**: [Cherry_Bomb](./Cherry_Bomb.cs) — Required extra logic to optimize and involved tricky constraints.
 
 > 🚀 Solving problems from Div 3 helps build up algorithms, logic, and C# skills!
