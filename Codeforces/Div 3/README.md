@@ -9,6 +9,7 @@ This folder contains solutions to various **Div 3 Codeforces problems**, solved 
 | Cherry_Bomb      | C   | ✅ Solved | [Cherry Bomb.cs](./Cherry_Bomb.cs) |
 | Square_Year      | A   | ✅ Solved | [Square_Year.cs](./Square_Year.cs) |
 | Draw_a_Square    | A   | ✅ Solved | [Draw_a_Square.cs](./Draw_a_Square.cs) |
+| False_Alarm      | A   | ✅ Solved | [False_Alarm.cs](./False_Alarm.cs) |
 
 > 🧠 **Highlighted Problem**: [Cherry_Bomb](./Cherry_Bomb.cs) — Required extra logic to optimize and involved tricky constraints.
 
